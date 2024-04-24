@@ -8,13 +8,14 @@ class TimerApp:
         self.master = master
         master.title("Timer App")
 
+        self.is_paused = False
         self.time_label = tk.Label(master, text="0000:00:00", font=("Helvetica", 48))
         self.time_label.pack()
 
         self.start_button = tk.Button(master, text="Start", command=self.start_timer)
         self.start_button.pack()
 
-        self.stop_button = tk.Button(master, text="Stop", command=self.stop_timer)
+        self.stop_button = tk.Button(master, text="Pause", command=self.stop_timer)
         self.stop_button.pack()
 
         self.reset_button = tk.Button(master, text="Reset", command=self.reset_timer)
@@ -37,14 +38,16 @@ class TimerApp:
     def start_timer(self):
         if not self.running:
             self.running = True
-            if self.start_time is None:
-                self.start_time = time.time() - self.elapsed_time
+            self.start_time = time.time() - self.elapsed_time
             self.update_timer()
 
     def stop_timer(self):
         if self.running:
             self.running = False
             self.elapsed_time = time.time() - self.start_time
+            self.update_timer()
+        else:
+            self.is_paused = True
 
     def reset_timer(self):
         self.running = False
@@ -55,10 +58,15 @@ class TimerApp:
     def update_timer(self):
         if self.running:
             self.elapsed_time = time.time() - self.start_time
-        hours = int(self.elapsed_time // 3600)
-        minutes = int((self.elapsed_time % 3600) // 60)
-        seconds = int(self.elapsed_time % 60)
-        time_string = "{:04d}:{:02d}:{:02d}".format(hours, minutes, seconds)
+        if self.elapsed_time < 3600:  # Less than an hour, show minutes and seconds only
+            minutes = int(self.elapsed_time // 60)
+            seconds = int(self.elapsed_time % 60)
+            time_string = "{:02d}:{:02d}".format(minutes, seconds)
+        else:
+            hours = int(self.elapsed_time // 3600)
+            minutes = int((self.elapsed_time % 3600) // 60)
+            seconds = int(self.elapsed_time % 60)
+            time_string = "{:04d}:{:02d}:{:02d}".format(hours, minutes, seconds)
         self.time_label.config(text=time_string)
         if self.running:
             self.master.after(1000, self.update_timer)
