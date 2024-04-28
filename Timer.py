@@ -18,6 +18,9 @@ class TimerApp:
         self.pause_button = Button(master, text="Pause", command=self.pause_timer)
         self.pause_button.pack()
 
+        self.reset_button = Button(master, text="Reset", command=self.reset_timer)
+        self.reset_button.pack()
+
         self.dev_button = Button(master, text="Developer Options", command=self.open_dev_options)
         self.dev_button.pack()
 
@@ -61,7 +64,7 @@ class TimerApp:
         self.running = False
         self.start_time = None
         self.elapsed_time = 0
-        self.time_label.config(text="0000:00:00")
+        self.update_timer()
 
     def change_time(self, hours, minutes, seconds):
         self.default_hours = hours
