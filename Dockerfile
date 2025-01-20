@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-WORKDIR /C:/Users/Warrior/Desktop/Timer_App
+WORKDIR /app
 
 COPY . .
 

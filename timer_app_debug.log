@@ -1,0 +1,161 @@
+2025-01-20 14:00:09,967 - DEBUG - Timer app initialized.
+2025-01-20 14:00:09,970 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:00:09,970 - DEBUG - Loaded state from pickle: start_time=1737398373.823864, elapsed_time=13.858518600463867
+2025-01-20 14:00:12,412 - DEBUG - Timer started. start_time=1737399598.5541933
+2025-01-20 14:00:15,218 - DEBUG - Timer paused. elapsed_time=16.664363145828247
+2025-01-20 14:00:16,529 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:00:16,530 - DEBUG - State saved successfully.
+2025-01-20 14:00:16,530 - DEBUG - App closing, state saved.
+2025-01-20 14:06:58,843 - DEBUG - Timer app initialized.
+2025-01-20 14:06:58,850 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:06:58,851 - DEBUG - Loaded state from pickle: start_time=1737399791.4934027, elapsed_time=18.41663360595703
+2025-01-20 14:07:08,964 - DEBUG - Timer started. start_time=1737400010.5481112
+2025-01-20 14:07:13,074 - DEBUG - Timer paused. elapsed_time=22.526564598083496
+2025-01-20 14:07:17,389 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:07:17,390 - DEBUG - State saved successfully.
+2025-01-20 14:07:17,390 - DEBUG - App closing, state saved.
+2025-01-20 14:45:25,353 - DEBUG - Timer app initialized.
+2025-01-20 14:45:25,361 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:45:25,361 - DEBUG - Loaded state from pickle: start_time=1737402173.907237, elapsed_time=3.646942377090454
+2025-01-20 14:45:32,627 - DEBUG - Developer mode entered.
+2025-01-20 14:45:36,882 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:45:36,883 - DEBUG - State saved successfully.
+2025-01-20 14:45:36,883 - DEBUG - App closing, state saved.
+2025-01-20 14:46:41,786 - DEBUG - Timer app initialized.
+2025-01-20 14:46:41,792 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:46:41,792 - DEBUG - Loaded state from pickle: start_time=1737402173.907237, elapsed_time=3.646942377090454
+2025-01-20 14:46:49,247 - DEBUG - Entered developer options.
+2025-01-20 14:47:00,029 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:47:00,029 - DEBUG - State saved successfully.
+2025-01-20 14:47:00,030 - DEBUG - App closing, state saved.
+2025-01-20 14:47:24,069 - DEBUG - Timer app initialized.
+2025-01-20 14:47:24,075 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:47:24,076 - DEBUG - Loaded state from pickle: start_time=1737402173.907237, elapsed_time=3.646942377090454
+2025-01-20 14:47:27,754 - DEBUG - Entered into developer options.
+2025-01-20 14:47:33,911 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:47:33,912 - DEBUG - State saved successfully.
+2025-01-20 14:47:33,912 - DEBUG - App closing, state saved.
+2025-01-20 14:47:55,543 - DEBUG - Timer app initialized.
+2025-01-20 14:47:55,546 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:47:55,547 - DEBUG - Loaded state from pickle: start_time=1737402173.907237, elapsed_time=3.646942377090454
+2025-01-20 14:47:57,570 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:47:57,571 - DEBUG - State saved successfully.
+2025-01-20 14:47:57,572 - DEBUG - App closing, state saved.
+2025-01-20 14:48:01,576 - DEBUG - Timer app initialized.
+2025-01-20 14:48:01,581 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:48:01,581 - DEBUG - Loaded state from pickle: start_time=1737402173.907237, elapsed_time=3.646942377090454
+2025-01-20 14:48:39,172 - DEBUG - Time changed to: 56h 34m 24s
+2025-01-20 14:48:39,173 - DEBUG - Developer changes applied: 56h 34m 24s
+2025-01-20 14:48:47,934 - DEBUG - Timer started. start_time=1737198863.9345448
+2025-01-20 14:49:00,314 - DEBUG - Timer paused. elapsed_time=203676.37949824333
+2025-01-20 14:49:04,354 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:49:04,355 - DEBUG - State saved successfully.
+2025-01-20 14:49:04,355 - DEBUG - App closing, state saved.
+2025-01-20 14:52:57,552 - DEBUG - Timer app initialized.
+2025-01-20 14:52:57,555 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:52:57,556 - DEBUG - Loaded state from pickle: start_time=1737198863.9345448, elapsed_time=203676.37949824333
+2025-01-20 14:53:03,302 - DEBUG - Timer started. start_time=1737199106.9226556
+2025-01-20 14:53:07,557 - DEBUG - Timer paused. elapsed_time=203680.63443803787
+2025-01-20 14:53:08,459 - DEBUG - Timer reset.
+2025-01-20 14:53:10,306 - DEBUG - Timer started. start_time=1737402790.3063045
+2025-01-20 14:53:29,291 - DEBUG - Time changed to: 999h 0m 0s
+2025-01-20 14:53:29,291 - DEBUG - Developer changes applied: 999h 0m 0s
+2025-01-20 14:53:36,416 - DEBUG - Timer paused. elapsed_time=26.10967230796814
+2025-01-20 14:53:43,661 - DEBUG - Time changed to: 999h 0m 0s
+2025-01-20 14:53:43,662 - DEBUG - Developer changes applied: 999h 0m 0s
+2025-01-20 14:53:47,594 - DEBUG - Time changed to: 999h 0m 0s
+2025-01-20 14:53:47,594 - DEBUG - Developer changes applied: 999h 0m 0s
+2025-01-20 14:54:02,454 - DEBUG - Time changed to: 99h 0m 0s
+2025-01-20 14:54:02,454 - DEBUG - Developer changes applied: 99h 0m 0s
+2025-01-20 14:54:06,115 - DEBUG - Timer started. start_time=1737046446.115352
+2025-01-20 14:54:08,539 - DEBUG - Timer paused. elapsed_time=356402.4238884449
+2025-01-20 14:54:16,854 - DEBUG - Time changed to: 999h 0m 0s
+2025-01-20 14:54:16,854 - DEBUG - Developer changes applied: 999h 0m 0s
+2025-01-20 14:54:19,316 - DEBUG - Timer started. start_time=1733806459.3160179
+2025-01-20 14:54:23,217 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:54:23,218 - DEBUG - State saved successfully.
+2025-01-20 14:54:23,218 - DEBUG - App closing, state saved.
+2025-01-20 14:55:25,930 - DEBUG - Timer app initialized.
+2025-01-20 14:55:25,933 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:55:25,933 - DEBUG - Loaded state from pickle: start_time=1733806459.3160179, elapsed_time=3596403.026231289
+2025-01-20 14:55:28,654 - DEBUG - Timer reset.
+2025-01-20 14:55:31,844 - DEBUG - Timer started. start_time=1737402931.8448906
+2025-01-20 14:55:33,402 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:55:33,403 - DEBUG - State saved successfully.
+2025-01-20 14:55:33,403 - DEBUG - App closing, state saved.
+2025-01-20 14:55:45,467 - DEBUG - Timer app initialized.
+2025-01-20 14:55:45,470 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:55:45,470 - DEBUG - Loaded state from pickle: start_time=1737402931.8448906, elapsed_time=1.0038774013519287
+2025-01-20 14:55:51,674 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:55:51,675 - DEBUG - State saved successfully.
+2025-01-20 14:55:51,675 - DEBUG - App closing, state saved.
+2025-01-20 14:57:56,180 - DEBUG - Timer app initialized.
+2025-01-20 14:57:56,183 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:57:56,183 - DEBUG - Loaded state from pickle: start_time=1737402931.8448906, elapsed_time=1.0038774013519287
+2025-01-20 14:58:00,209 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:58:00,209 - DEBUG - State saved successfully.
+2025-01-20 14:58:00,210 - DEBUG - App closing, state saved.
+2025-01-20 14:58:06,520 - DEBUG - Timer app initialized.
+2025-01-20 14:58:06,523 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:58:06,523 - DEBUG - Loaded state from pickle: start_time=1737402931.8448906, elapsed_time=1.0038774013519287
+2025-01-20 14:58:08,573 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:58:08,574 - DEBUG - State saved successfully.
+2025-01-20 14:58:08,574 - DEBUG - App closing, state saved.
+2025-01-20 14:58:33,098 - DEBUG - Timer app initialized.
+2025-01-20 14:58:33,101 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 14:58:33,101 - DEBUG - Loaded state from pickle: start_time=1737402931.8448906, elapsed_time=1.0038774013519287
+2025-01-20 14:58:53,740 - DEBUG - Time changed to: 0h 59m 50s
+2025-01-20 14:58:53,740 - DEBUG - Developer changes applied: 0h 59m 50s
+2025-01-20 14:58:57,506 - DEBUG - Timer started. start_time=1737399547.5065558
+2025-01-20 14:59:10,018 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 14:59:10,018 - DEBUG - State saved successfully.
+2025-01-20 14:59:10,019 - DEBUG - App closing, state saved.
+2025-01-20 15:03:13,925 - DEBUG - Timer app initialized.
+2025-01-20 15:03:13,929 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:03:13,930 - DEBUG - Loaded state from pickle: start_time=1737399547.5065558, elapsed_time=3602.0960466861725
+2025-01-20 15:04:01,045 - DEBUG - Time changed to: 56h 34m 23s
+2025-01-20 15:04:01,047 - DEBUG - Developer changes applied: 56h 34m 23s
+2025-01-20 15:04:36,493 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 15:04:36,493 - DEBUG - State saved successfully.
+2025-01-20 15:04:36,494 - DEBUG - App closing, state saved.
+2025-01-20 15:12:41,561 - DEBUG - Timer app initialized.
+2025-01-20 15:12:41,564 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:12:41,564 - DEBUG - Loaded state from pickle: start_time=1737399547.5065558, elapsed_time=203663
+2025-01-20 15:12:44,875 - DEBUG - Timer started. start_time=1737200301.8757277
+2025-01-20 15:12:47,506 - DEBUG - Timer paused. elapsed_time=203665.63031315804
+2025-01-20 15:16:49,744 - DEBUG - Timer app initialized.
+2025-01-20 15:16:49,750 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:16:49,751 - DEBUG - Loaded state from pickle: start_time=1737399547.5065558, elapsed_time=203663
+2025-01-20 15:16:51,439 - DEBUG - Timer started. start_time=1737200548.43906
+2025-01-20 15:17:06,096 - DEBUG - Timer paused. elapsed_time=203677.65694236755
+2025-01-20 15:17:15,101 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 15:17:15,101 - DEBUG - State saved successfully.
+2025-01-20 15:17:15,102 - DEBUG - App closing, state saved.
+2025-01-20 15:17:31,998 - DEBUG - Timer app initialized.
+2025-01-20 15:17:32,002 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:17:32,002 - DEBUG - Loaded state from pickle: start_time=1737200548.43906, elapsed_time=203677.65694236755
+2025-01-20 15:18:02,512 - DEBUG - Time changed to: 56h 34m 35s
+2025-01-20 15:18:02,513 - DEBUG - Developer changes applied: 56h 34m 35s
+2025-01-20 15:20:25,359 - DEBUG - Timer app initialized.
+2025-01-20 15:20:25,363 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:20:25,363 - DEBUG - Loaded state from pickle: start_time=1737200548.43906, elapsed_time=203677.65694236755
+2025-01-20 15:20:46,814 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 15:20:46,815 - DEBUG - State saved successfully.
+2025-01-20 15:20:46,816 - DEBUG - App closing, state saved.
+2025-01-20 15:21:11,256 - DEBUG - Timer app initialized.
+2025-01-20 15:21:11,261 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:21:11,261 - DEBUG - Loaded state from pickle: start_time=1737200548.43906, elapsed_time=203677.65694236755
+2025-01-20 15:21:12,978 - DEBUG - Timer started. start_time=1737200795.3219402
+2025-01-20 15:21:14,642 - DEBUG - Timer paused. elapsed_time=203679.32088637352
+2025-01-20 15:21:15,736 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 15:21:15,737 - DEBUG - State saved successfully.
+2025-01-20 15:21:15,737 - DEBUG - App closing, state saved.
+2025-01-20 15:28:08,249 - DEBUG - Timer app initialized.
+2025-01-20 15:28:08,251 - DEBUG - State file path: E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle
+2025-01-20 15:28:08,252 - DEBUG - Loaded state from pickle: start_time=1737200795.3219402, elapsed_time=203679.32088637352
+2025-01-20 15:28:12,665 - DEBUG - Entering developer options
+2025-01-20 15:28:33,201 - DEBUG - Time changed to: 56h 34m 42s
+2025-01-20 15:28:33,202 - DEBUG - Developer changes applied: 56h 34m 42s
+2025-01-20 15:28:38,487 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-20 15:28:38,488 - DEBUG - State saved successfully.
+2025-01-20 15:28:38,488 - DEBUG - App closing, state saved.
