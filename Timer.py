@@ -61,7 +61,7 @@ class TimerApp:
         self.minutes_entry = Entry(width=5)
         self.seconds_entry = Entry(width=5)
 
-        self.state_file_path = "E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle"
+        self.state_file_path = "E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle"
         logging.debug(f"State file path: {self.state_file_path}")
 
         try:

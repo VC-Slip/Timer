@@ -1,4 +1,4 @@
-('E:\\Pycharm Projects\\Desktop\\Timer_App\\build\\Timer\\PYZ-00.pyz',
+('E:\\Pycharm Projects\\Timer\\Timer_App\\build\\Timer\\PYZ-00.pyz',
  [('__future__',
    'D:\\Programs\\Python Interpreter\\Python313\\Lib\\__future__.py',
    'PYMODULE'),

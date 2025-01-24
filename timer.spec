@@ -5,7 +5,7 @@ a = Analysis(
     ['Timer.py'],
     pathex=[],
     binaries=[],
-    datas=[('E:/Pycharm Projects/Desktop/Timer_App/timer_state.pickle', '.')],
+    datas=[('E:\\Pycharm Projects\\Timer\\Timer_App\\timer_state.pickle', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
