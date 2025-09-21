@@ -172,3 +172,11 @@
 2025-01-24 11:57:11,942 - DEBUG - saving state to:{self.sate_file_path}
 2025-01-24 11:57:11,942 - DEBUG - State saved successfully.
 2025-01-24 11:57:11,942 - DEBUG - App closing, state saved.
+2025-01-26 11:30:13,837 - DEBUG - Timer app initialized.
+2025-01-26 11:30:13,842 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
+2025-01-26 11:30:13,843 - DEBUG - Loaded state from pickle: start_time=1737200795.3219402, elapsed_time=203682
+2025-01-26 11:30:20,302 - DEBUG - Timer started. start_time=1737705338.3020835
+2025-01-26 11:30:22,460 - DEBUG - Timer paused. elapsed_time=203684.1583352089
+2025-01-26 11:30:27,176 - DEBUG - saving state to:{self.sate_file_path}
+2025-01-26 11:30:27,177 - DEBUG - State saved successfully.
+2025-01-26 11:30:27,177 - DEBUG - App closing, state saved.

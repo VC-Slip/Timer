@@ -7,3 +7,26 @@
 2025-01-24 12:40:54,958 - DEBUG - Timer app initialized.
 2025-01-24 12:40:54,965 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
 2025-01-24 12:40:54,966 - DEBUG - Loaded state from pickle: start_time=1737200795.3219402, elapsed_time=203682
+2025-03-16 10:02:37,986 - DEBUG - Timer app initialized.
+2025-03-16 10:02:37,997 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
+2025-03-16 10:02:37,998 - DEBUG - Loaded state from pickle: start_time=1737705338.3020835, elapsed_time=203684.1583352089
+2025-03-16 10:02:38,499 - DEBUG - Timer app initialized.
+2025-03-16 10:02:38,505 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
+2025-03-16 10:02:38,506 - DEBUG - Loaded state from pickle: start_time=1737705338.3020835, elapsed_time=203684.1583352089
+2025-03-16 10:02:43,988 - DEBUG - saving state to:{self.sate_file_path}
+2025-03-16 10:02:43,989 - DEBUG - State saved successfully.
+2025-03-16 10:02:43,990 - DEBUG - App closing, state saved.
+2025-07-01 10:44:15,113 - DEBUG - Timer app initialized.
+2025-07-01 10:44:15,127 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
+2025-07-01 10:44:15,128 - DEBUG - Loaded state from pickle: start_time=1737705338.3020835, elapsed_time=203684.1583352089
+2025-07-01 10:44:51,238 - DEBUG - Timer app initialized.
+2025-07-01 10:44:51,245 - DEBUG - State file path: E:/Pycharm Projects/Timer/Timer_App/timer_state.pickle
+2025-07-01 10:44:51,246 - DEBUG - Loaded state from pickle: start_time=1737705338.3020835, elapsed_time=203684.1583352089
+2025-07-01 10:45:02,476 - DEBUG - Timer started. start_time=1751177418.3180854
+2025-07-01 10:45:06,884 - DEBUG - Timer paused. elapsed_time=203688.56614780426
+2025-07-01 10:45:09,478 - DEBUG - Timer started. start_time=1751177420.9120371
+2025-07-01 10:45:11,940 - DEBUG - Timer paused. elapsed_time=203691.0287528038
+2025-07-01 10:45:14,301 - DEBUG - Timer reset.
+2025-07-01 10:45:21,635 - DEBUG - saving state to:{self.sate_file_path}
+2025-07-01 10:45:21,636 - DEBUG - State saved successfully.
+2025-07-01 10:45:21,636 - DEBUG - App closing, state saved.
